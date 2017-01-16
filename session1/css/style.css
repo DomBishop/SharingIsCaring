@@ -1,0 +1,94 @@
+.content 
+{
+    margin: 2em auto;
+    max-width: 40em;
+    padding: 0 1em;
+}
+
+html, body 
+{
+    height: 100%;
+}
+
+.full 
+{
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.logo 
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 320px;
+    height: 320px;
+    margin-left: -160px;
+    margin-top: -160px;
+}
+
+.logo img 
+{
+    width: 100%;
+}
+
+#one 
+{ 
+    background-image: url("../image/testpic1.jpg"); 
+}
+
+#two 
+{ 
+    background-image: url("../image/testpic2.jpeg"); 
+}
+
+#three 
+{ 
+    background-image: url("../image/testpic3.jpg"); 
+}
+
+#four 
+{ 
+    background-image: url("../image/testpic4.jpg"); 
+}
+
+#five 
+{ 
+    background-image: url("../image/testpic5.jpeg"); 
+}
+
+#mc_embed_signup 
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 30em;
+	height: 13em;
+	margin: -6.5em 0 0 -15em;
+
+	background: yellow;
+}
+
+input 
+{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+input[type="email"] 
+{
+	padding: .5em;
+}
+
+input[type="submit"]
+{
+	margin: 1em 0;
+	background-color: black;
+	color: yellow;
+	border-radius: .25em;
+	border: none;
+	padding: .5em;
+	/*font-size: 1.5em;*/
+}
