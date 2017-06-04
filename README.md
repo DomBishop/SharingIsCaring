@@ -6,6 +6,9 @@
 
 ## [Here's the site up and running! :running:](https://dombishop.github.io/A-Day-in-the-Future/Domonic/)
 
+## Index:
+- [Blogs](#blogs)
+
 
 ## Blogs
 - [JavaScript for Cats](http://fourthfloor.raveweb.net/dbishop/2017/01/24/javascript-for-cats/)
