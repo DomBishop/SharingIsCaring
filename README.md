@@ -8,6 +8,9 @@
 
 ## Index:
 - [Blogs](#blogs)
+- [Content Scripts](#content-scripts)
+- [User Feedback](#user-feedback)
+- [Moodboard](#moodboard)
 
 
 ## Blogs
