@@ -1,0 +1,323 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,500,600,700,900,300,200);
+#one::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0.2) 33.33333%, rgba(255, 255, 255, 0.4) 33.33333%, rgba(255, 255, 255, 0.4) 66.66666%, rgba(255, 255, 255, 0.6) 66.66666%), -webkit-linear-gradient(left, rgba(255, 0, 0, 0.7) 33.33333%, rgba(0, 255, 0, 0.7) 33.33333%, rgba(0, 255, 0, 0.7) 66.66666%, rgba(0, 0, 255, 0.7) 66.66666%);
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 0.2) 33.33333%, rgba(255, 255, 255, 0.4) 33.33333%, rgba(255, 255, 255, 0.4) 66.66666%, rgba(255, 255, 255, 0.6) 66.66666%), linear-gradient(to right, rgba(255, 0, 0, 0.7) 33.33333%, rgba(0, 255, 0, 0.7) 33.33333%, rgba(0, 255, 0, 0.7) 66.66666%, rgba(0, 0, 255, 0.7) 66.66666%);
+  background-size: 3px 3px;
+  mix-blend-mode: multiply;
+}
+
+
+.glitch {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  width: 400px;
+  margin: 0 auto;
+}
+
+@keyframes noise-anim {
+  0% {
+    clip: rect(17px, 9999px, 27px, 0);
+  }
+  5% {
+    clip: rect(33px, 9999px, 68px, 0);
+  }
+  10% {
+    clip: rect(10px, 9999px, 18px, 0);
+  }
+  15% {
+    clip: rect(92px, 9999px, 80px, 0);
+  }
+  20% {
+    clip: rect(52px, 9999px, 99px, 0);
+  }
+  25% {
+    clip: rect(30px, 9999px, 52px, 0);
+  }
+  30% {
+    clip: rect(50px, 9999px, 19px, 0);
+  }
+  35% {
+    clip: rect(15px, 9999px, 92px, 0);
+  }
+  40% {
+    clip: rect(20px, 9999px, 68px, 0);
+  }
+  45% {
+    clip: rect(88px, 9999px, 55px, 0);
+  }
+  50% {
+    clip: rect(89px, 9999px, 11px, 0);
+  }
+  55% {
+    clip: rect(26px, 9999px, 3px, 0);
+  }
+  60% {
+    clip: rect(28px, 9999px, 6px, 0);
+  }
+  65% {
+    clip: rect(71px, 9999px, 74px, 0);
+  }
+  70% {
+    clip: rect(37px, 9999px, 51px, 0);
+  }
+  75% {
+    clip: rect(19px, 9999px, 97px, 0);
+  }
+  80% {
+    clip: rect(58px, 9999px, 70px, 0);
+  }
+  85% {
+    clip: rect(79px, 9999px, 35px, 0);
+  }
+  90% {
+    clip: rect(23px, 9999px, 13px, 0);
+  }
+  95% {
+    clip: rect(21px, 9999px, 33px, 0);
+  }
+  100% {
+    clip: rect(12px, 9999px, 30px, 0);
+  }
+}
+.glitch:after {
+  content: attr(data-text);
+  position: absolute;
+  left: 2px;
+  text-shadow: -1px 0 red;
+  top: 0;
+  color: white;
+  background: black;
+  overflow: hidden;
+  clip: rect(0, 900px, 0, 0);
+  animation: noise-anim 2s infinite linear alternate-reverse;
+}
+
+@keyframes noise-anim-2 {
+  0% {
+    clip: rect(88px, 9999px, 66px, 0);
+  }
+  5% {
+    clip: rect(5px, 9999px, 20px, 0);
+  }
+  10% {
+    clip: rect(74px, 9999px, 60px, 0);
+  }
+  15% {
+    clip: rect(55px, 9999px, 87px, 0);
+  }
+  20% {
+    clip: rect(34px, 9999px, 14px, 0);
+  }
+  25% {
+    clip: rect(88px, 9999px, 55px, 0);
+  }
+  30% {
+    clip: rect(61px, 9999px, 36px, 0);
+  }
+  35% {
+    clip: rect(87px, 9999px, 52px, 0);
+  }
+  40% {
+    clip: rect(22px, 9999px, 35px, 0);
+  }
+  45% {
+    clip: rect(13px, 9999px, 31px, 0);
+  }
+  50% {
+    clip: rect(14px, 9999px, 67px, 0);
+  }
+  55% {
+    clip: rect(37px, 9999px, 21px, 0);
+  }
+  60% {
+    clip: rect(65px, 9999px, 17px, 0);
+  }
+  65% {
+    clip: rect(69px, 9999px, 50px, 0);
+  }
+  70% {
+    clip: rect(68px, 9999px, 88px, 0);
+  }
+  75% {
+    clip: rect(39px, 9999px, 57px, 0);
+  }
+  80% {
+    clip: rect(81px, 9999px, 20px, 0);
+  }
+  85% {
+    clip: rect(27px, 9999px, 7px, 0);
+  }
+  90% {
+    clip: rect(45px, 9999px, 72px, 0);
+  }
+  95% {
+    clip: rect(97px, 9999px, 58px, 0);
+  }
+  100% {
+    clip: rect(21px, 9999px, 35px, 0);
+  }
+}
+.glitch:before {
+  content: attr(data-text);
+  position: absolute;
+  left: -2px;
+  text-shadow: 1px 0 blue;
+  top: 0;
+  color: white;
+  background: black;
+  overflow: hidden;
+  clip: rect(0, 900px, 0, 0);
+  animation: noise-anim-2 3s infinite linear alternate-reverse;
+}
+
+#butty {
+    background-color: black;
+}
+
+#one {
+    background-color: black;
+    padding-top: 220px;
+    padding-bottom: 0px;
+}
+
+#two {
+    background-image: url(../images/share%20pic%201%20exp.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
+}
+
+#three {
+    background-image: url(../images/share%20pic%202%20exp.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
+}   
+
+#four {
+    background-image: url(../images/share%20pic%203%20exp.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
+}
+
+#five {
+    background-image: url(../images/share%20pic%204%20exp.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
+}
+
+#textbreak {
+    position:relative;
+    top: 500px;
+}
+
+#ending {
+    padding-bottom: 1em;
+}
+
+.container svg {
+	display: block;
+}
+
+section {
+	position: relative;
+	padding: 4em 10%;
+    padding-bottom: 15em;
+	text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+
+p {
+	color: black;
+	font-size: 1.1em;
+	line-height: 1.8;
+    padding: 50px;
+    background-color: white;
+     text-align: justify;
+    font-family: 'Source Code Pro', Helvetica, Arial, sans-serif;
+    
+}
+
+p.introblock {
+	color: black;
+	font-size: 1.1em;
+	line-height: 1.8; 
+    padding: 10px 50px 10px 50px;
+    background-color: white;
+    font-weight: 900;
+    text-align: center;
+}
+
+
+
+h1 {
+    font-size: 2em;
+    font-variant: small-caps;
+}
+
+.column {
+    padding-bottom: 25em;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #000000;
+    background: #000000;
+    background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
+    background: -moz-linear-gradient(top, #000000, #000000);
+    background: linear-gradient(to bottom, #000000, #000000);
+    -webkit-box-shadow: #ffffff 0px 0px 40px 5px;
+    -moz-box-shadow: #ffffff 0px 0px 40px 5px;
+    box-shadow: #ffffff 0px 0px 40px 5px;
+    font: normal normal bold 22px courier new;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:active,
+.button:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+
+@media only screen and (max-width: 40em) {
+    body {
+        font-size: 0.8em;
+        padding: 1px 5px 1px 5px;
+    }
+    
+    .glitch {  width: 300px; }
+    
+    p {text-align: center;}
+}
