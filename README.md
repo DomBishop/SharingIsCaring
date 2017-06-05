@@ -4,13 +4,14 @@
 
 ![Alt Text](http://i.imgur.com/SsvdDWb.png)
 
-## [Here's the site up and running! :running:](https://dombishop.github.io/A-Day-in-the-Future/Domonic/)
+## [Here's the site up and running on GitHub! :running:](https://dombishop.github.io/A-Day-in-the-Future/Domonic/)
 
-## Index:
+## Index
 - [Blogs](#blogs)
 - [Content Scripts](#content-scripts)
 - [User Feedback](#user-feedback)
 - [Moodboard](#moodboard)
+- [Formative Video](#formative-video)
 
 
 ## Blogs
