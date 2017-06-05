@@ -8,10 +8,11 @@
 
 ## Index
 - [Blogs](#blogs)
-- [Content Scripts](#content-scripts)
+- [Content strategy](#content-strategy)
 - [User Feedback](#user-feedback)
 - [Moodboard](#moodboard)
 - [Wireframes](#wireframes)
+- [Research link](#research-link)
 - [Formative Video link](#formative-video-link)
 - [Competitor Analysis link](#competitor-analysis-link)
 
@@ -32,7 +33,7 @@
 - [Reflection Blog Post](http://fourthfloor.raveweb.net/dbishop/2017/06/04/reflection-blog-post/)
 
 
-## Content Scripts
+## Content Strategy
 _Note: at one point my project was called **"Big Bear is Watching"** and now it's called **"A Day in the Future"**_
 - [Version 1](https://docs.google.com/document/d/1_srl7AGra1_rVKefmm1L7Mca0H7C9TtUt4HqBAqblEE/edit?usp=sharing)
 - [Version 2](https://docs.google.com/a/students.rave.ac.uk/document/d/1-wZ3V1KX-HFoUXhCYva4cI0nI_ExvOTXINa2jC9Tud8/edit?usp=sharing)
@@ -53,6 +54,9 @@ This is a [Pinterest Moodboard](http://pin.it/P8UJ-9g) I made while creating the
 These are the two wireframes I made, and the final site did resemble these for the most part.
 ![wireframe 1](http://i.imgur.com/KGCpBpF.jpg)
 ![wireframe 2](http://i.imgur.com/NsauzEe.jpg)
+
+
+## [Research link](https://docs.google.com/document/d/1RBbZNcCQdf-55TiwmpMybxipnEkHXsyxm8rWRjlIlr4/edit?usp=sharing)
 
 ## [Formative Video link](https://vimeo.com/208009580)
 
