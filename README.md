@@ -2,7 +2,7 @@
 
 ## Domonic Bishop
 
-![Alt Text](http://i.imgur.com/SsvdDWb.png)
+![title logo](http://i.imgur.com/SsvdDWb.png)
 
 ## [Here's the site up and running on GitHub! :running:](https://dombishop.github.io/A-Day-in-the-Future/Domonic/)
 
@@ -11,6 +11,7 @@
 - [Content Scripts](#content-scripts)
 - [User Feedback](#user-feedback)
 - [Moodboard](#moodboard)
+- [Wireframes](#wireframes)
 - [Formative Video link](#formative-video-link)
 - [Competitor Analysis link](#competitor-analysis-link)
 
@@ -47,6 +48,11 @@ They mentioned grammar errors that I didn't notice, and some design flaws. The g
 This is a [Pinterest Moodboard](http://pin.it/P8UJ-9g) I made while creating the initial concept for the illustrations I made for my website.
 ![alt text](http://i.imgur.com/vUBCVJe.png)
 
+
+## Wireframes
+These are the two wireframes I made, and the final site did resemble these for the most part.
+![wireframe 1](http://i.imgur.com/KGCpBpF.jpg)
+![wireframe 2](http://i.imgur.com/NsauzEe.jpg)
 
 ## [Formative Video link](https://vimeo.com/208009580)
 
