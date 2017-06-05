@@ -63,4 +63,4 @@ These are the two wireframes I made, and the final site did resemble these for t
 
 ## [Competitor Analysis link](https://docs.google.com/document/d/1tXs0DFL7-eRRuKUlufqbJBu0W8RwMguYHB27CDh-yns/edit?usp=sharing)
 
-## [Code for Website](https://github.com/DomBishop/SharingIsCaring/tree/gh-pages/Domonic)
+## [Code for Website](https://github.com/DomBishop/A-Day-in-the-Future/tree/gh-pages/Domonic)
