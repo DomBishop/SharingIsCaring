@@ -12,6 +12,7 @@
 - [User Feedback](#user-feedback)
 - [Moodboard](#moodboard)
 - [Formative Video](#formative-video)
+- [Competitor Analysis link](#competitor-analysis-link)
 
 
 ## Blogs
@@ -30,6 +31,9 @@
 - [Reflection Blog Post](http://fourthfloor.raveweb.net/dbishop/2017/06/04/reflection-blog-post/)
 
  
+## [Competitor Analysis link](https://docs.google.com/document/d/1tXs0DFL7-eRRuKUlufqbJBu0W8RwMguYHB27CDh-yns/edit?usp=sharing)
+
+
 ## Content Scripts
 _Note: at one point my project was called **"Big Bear is Watching"** and now it's called **"A Day in the Future"**_
 - [Version 1](https://docs.google.com/document/d/1_srl7AGra1_rVKefmm1L7Mca0H7C9TtUt4HqBAqblEE/edit?usp=sharing)
