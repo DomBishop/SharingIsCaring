@@ -11,7 +11,7 @@
 - [Content Scripts](#content-scripts)
 - [User Feedback](#user-feedback)
 - [Moodboard](#moodboard)
-- [Formative Video](#formative-video)
+- [Formative Video link](#formative-video-link)
 - [Competitor Analysis link](#competitor-analysis-link)
 
 
@@ -46,8 +46,7 @@ _Note: at one point my project was called **"Big Bear is Watching"** and now it'
 They mentioned grammar errors that I didn't notice, and some design flaws. The grammar was addressed, and most of the design flaws where too. They noticed that it was awkward when moving from certain parts of the story, because the parallax scrolling would mess around with the perception of the image. To amend this, I added the thin black lines between sections that I mentioned earlier. The only slight issue that could't be fixed was that they thought some parts of the site where buttons when they weren't (the parts I'm talking about are the white boxes at the start and end, with a black background surrounding them). They weren't fixed because it was only minor in their opinion, and I couldn't find an alternative.
 
 
-## Formative Video
-[This a link to the video!](https://vimeo.com/208009580)
+## [Formative Video link](https://vimeo.com/208009580)
 
 
 ## Moodboard
